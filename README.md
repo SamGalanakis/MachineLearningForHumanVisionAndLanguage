@@ -1,0 +1,2 @@
+# MachineLearningForHumanVisionAndLanguage
+Assignment for course MachineLearningForHumanVisionAndLanguage
