@@ -2,7 +2,6 @@ library(imager)
 library(here)
 
 
-image = load.image(here("Assignment_1", "cat.jpg"))
 image = load.image("https://i.pinimg.com/originals/34/80/8a/34808a2d1efdd8dea77b888358ccee49.jpg")
 plot(image)
 
